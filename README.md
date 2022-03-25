@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soulplatinum
+- 👋 Hi, I’m @Soulplatinum from Peru
 - 👀 I’m interested in develope multiple solutions for Power BI :)
 - 🌱 I’m currently learning SQL and Google Big Query to make my dashboards more eficcients
 - 💞️ I’m looking to collaborate on any DAX problem 
